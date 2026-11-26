@@ -4,9 +4,11 @@
 
 ## 起動
 
-[関節モーメントラボを起動する](https://joint-moment-lab-k.earlyjewel8.chatgpt.site)
+[関節モーメントラボを起動する](https://keizoliberalartslab.github.io/P003_JointMoment/)
 
-現在は本人用の非公開版です。所有者のChatGPTアカウントでログインして利用します。
+配布・共有用URL：https://keizoliberalartslab.github.io/P003_JointMoment/
+
+インストールやGitHub・ChatGPTへのログインは不要です。ほかの方に使ってもらう場合は、このURLを共有してください。
 
 オフラインでは、このフォルダの `index.html` をブラウザで開いてください。インストールや外部ライブラリは不要です。
 
